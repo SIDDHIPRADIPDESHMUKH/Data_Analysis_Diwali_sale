@@ -1,7 +1,7 @@
 # Data_Analysis_Diwali_sale
 Overview<br>
 This repository contains Data analysis of Diwali sale and analysis aims to provide insights into various aspects of the sale including product, its category, customer, customer occupation, statewise buying of products,etc.<br>
-#Dataset
+# Dataset
 The dataset used for analysis consits of sales data collected during the Diwali sale period-<br>
 *Product ID<br>
 *Product details such as Name, Category,Amount, etc.<br>
