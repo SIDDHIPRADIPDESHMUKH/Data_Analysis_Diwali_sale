@@ -12,7 +12,7 @@ The dataset used for analysis consits of sales data collected during the Diwali 
 3. Location: State wise purchasing of products.
    <br>
 # Tools Used
-Python: Pandas, Numpy, Matpltlib, Seaborn for Data Manipulation and Visualization.
+Python: Pandas, Numpy, Matpltlib, Seaborn for Data Manipulation and Visualization.<br>
 Jupyter Notebook: Used for conducting the analysis and documenting the process.<br>
 # Conclusion
 The analysis provides valuable insights into the Diwali sale, helping stakeho;ders understand the key factors sales and customer behavior.By using this insights company can make informed decisions to optimize future sales strategies and enhance overall performance.
